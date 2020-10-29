@@ -76,7 +76,7 @@ Gera um ambiente de desenvolvimento Electron com Docker que permite empacotar e 
 ### Pré-requisitos
 
  
-
+* [Docker](https://www.docker.com/get-started)
 * [VSCode](https://code.visualstudio.com/download) 
 * Extensão [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
