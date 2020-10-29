@@ -102,7 +102,7 @@ abra o XQuartz, navegue até *Preferences -> Security* e deixe as duas opções 
 Instruções:
 
   
-É recomendável que você clique em *Use this template*, dessa maneira você já poderá criar o repositório com o nome do seu projeto e iniciar o desenvolvimento.
+É recomendável que você clique em *Use this template*, dessa maneira você já poderá criar o repositório com o nome do seu projeto e iniciar o desenvolvimento. Faça o clone dele no seu computador e siga as demais instruções.
 
 
 #### macOS 
