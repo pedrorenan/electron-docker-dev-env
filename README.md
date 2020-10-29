@@ -173,6 +173,7 @@ $ npm start
 
 
 >🚀 Tente Editar o arquivo index.html para ver o *hot reloading* em ação.
+>💡 Usuários de macOS sempre devem estar com o xQuartz aberto e com o ip local na lista de permitidos.
 
 Para empacotar e exportar o aplicativo:
 
@@ -182,7 +183,7 @@ Para empacotar e exportar o aplicativo:
 
 ```bash
 # Empacotar e exportar o aplicativo
-$ npm run make
+$ npm run make-macos
 ```
 
 #### Todos os SOs 
@@ -190,7 +191,7 @@ $ npm run make
 
 ```bash
 # Empacotar e exportar o aplicativo
-$ npm run make-macos
+$ npm run make
 ```
 
 >✅ Os arquivos exportados serão gerados pasta *out/make/[formato]*
