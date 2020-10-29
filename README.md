@@ -109,7 +109,6 @@ Instruções:
 
 
 ```bash
-
 # Obtenha seu ip
 $ ip=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')
 
@@ -132,10 +131,6 @@ $ sed -i '' -e 's+HOST_IP+'$ip'+g' .devcontainer/devcontainer.json
 
 
 ```bash
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd [your-repository-name]
-
 # Abra o projeto com o VSCode
 $ code .
 ```
@@ -195,7 +190,7 @@ $ npm run make
 
 ```bash
 # Empacotar e exportar o aplicativo
-$ npm run make
+$ npm run make-macos
 ```
 
 >✅ Os arquivos exportados serão gerados pasta *out/make/[formato]*
