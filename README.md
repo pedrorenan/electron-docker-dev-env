@@ -331,3 +331,6 @@ This project is under the license [MIT](./LICENSE).
 Made with ❤️ by Pedro Renan 👋🏽 [Get in Touch!](https://www.linkedin.com/in/opedrorenan/)
 
 ---
+
+check this
+https://dev.to/darksmile92/run-gui-app-in-linux-docker-container-on-windows-host-4kde
